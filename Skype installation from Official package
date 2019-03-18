@@ -1,0 +1,9 @@
+Install prerequisites as follows:
+install the gdebi package:
+$ sudo apt install gdebi-core
+wget command to download the Skype package:
+$ wget https://repo.skype.com/latest/skypeforlinux-64.deb
+install the Skype package:
+$ sudo gdebi skypeforlinux-64.deb
+to start skype
+$ skype
