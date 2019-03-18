@@ -1,0 +1,4 @@
+$ sudo apt install virtualbox
+$ virtualbox
+For additional features you may wish to install Virtualbox extension:
+$ sudo apt install virtualbox-ext-pack
