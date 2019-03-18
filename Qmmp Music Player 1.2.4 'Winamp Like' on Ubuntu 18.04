@@ -1,0 +1,7 @@
+sudo add-apt-repository ppa:forkotov02/ppa
+sudo apt-get update
+sudo apt-get install qmmp qmmp-plugin-pack
+{For qt4 version, use qmmp-qt4 and qmmp-plugin-pack-qt4 instead in the last command.}
+
+!!! To uninstall qmmp Music Player !!!
+sudo apt-get remove --autoremove qmmp qmmp-*
